@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.tickets{
+    background: #20B2AA;
+    padding: 20px;
+}
+.tickets h1{
+    color: white;
+    text-align: center;
+}
+.row .car{
+    padding: 30px;
+    background: lightgrey;
+}
+.row .plane{
+    padding: 30px;
+    background: lightgrey;
+}
+.row .bus{
+    padding: 30px;
+    background: lightgrey;
+}
+.row .train{
+    padding: 30px;
+    background: lightgrey;
+}
